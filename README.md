@@ -3,8 +3,6 @@
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
 
@@ -41,3 +39,38 @@
 
 <br />
 <br />
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [STACKr News Shorts - Issue 3 - I Made a Game in Flutter](https://www.youtube.com/watch?v=JbO8Vfc49mQ)
+- [STACKr News Shorts - Issue 3 - Top News](https://www.youtube.com/watch?v=p91I2NebuRY)
+- [STACKr News Shorts - Issue 3 - Web Dev Highlights](https://www.youtube.com/watch?v=GODHKgtsq_s)
+- [MongoDB 5.0, Build a Flutter Game, FARM Stack ?🤯 // STACKr News Weekly - Issue 3](https://www.youtube.com/watch?v=UyO3r3_rECw)
+- [React 18 & TypeScript | How to Enable TypeScript in React 18](https://www.youtube.com/watch?v=bA5pZnEE0yA)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/codestackr)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://codestackr.com)
+
+---
+
+  
+
+
+
